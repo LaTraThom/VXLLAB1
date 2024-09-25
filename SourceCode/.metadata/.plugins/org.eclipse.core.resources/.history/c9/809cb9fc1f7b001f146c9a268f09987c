@@ -24,11 +24,7 @@
 #include "Ex3.h"
 #include "Ex4.h"
 #include "Ex5.h"
-#include "Ex6.h"
-#include "Ex7.h"
-#include "Ex8.h"
-#include "Ex9.h"
-#include "Ex10.h"
+#include "Ex1.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 

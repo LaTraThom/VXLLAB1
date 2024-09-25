@@ -664,3 +664,67 @@
 2024-09-25 15:46:05,570 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
 2024-09-25 15:46:05,572 [INFO] ApiDb:276 - Save user favorites file C:\Users\TIEN DUY/.stm32cubeide/favorites.mcus.txt: 0 item(s)
 2024-09-25 15:46:05,572 [INFO] ApiDb:280 - User favorites MCUs=[]
+2024-09-25 16:14:35,202 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 893857632 Bytes (1037041664)
+2024-09-25 16:14:36,220 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 918339784 Bytes (1037041664)
+2024-09-25 16:14:45,599 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 872430544 Bytes (1037041664)
+2024-09-25 16:14:45,868 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2024-09-25 16:14:45,868 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2024-09-25 16:14:45,868 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2024-09-25 16:14:45,868 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2024-09-25 16:14:45,869 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2024-09-25 16:14:46,139 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\license.tmp_save
+2024-09-25 16:14:46,295 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\license.tmp
+2024-09-25 16:14:46,371 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\gpio.tmp_save
+2024-09-25 16:14:46,472 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\gpio.tmp
+2024-09-25 16:14:46,510 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\stm32f1xx_it.c_save
+2024-09-25 16:14:46,594 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\stm32f1xx_it.c
+2024-09-25 16:14:46,598 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\stm32f1xx_it.h_save
+2024-09-25 16:14:46,658 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\stm32f1xx_it.h
+2024-09-25 16:14:46,673 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\stm32f1xx_hal_msp.c_save
+2024-09-25 16:14:46,749 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\stm32f1xx_hal_msp.c
+2024-09-25 16:14:46,753 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\system.tmp_save
+2024-09-25 16:14:46,805 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\system.tmp
+2024-09-25 16:14:46,820 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-09-25 16:14:46,885 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\stm32f1xx_hal_conf.h
+2024-09-25 16:14:46,910 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\main.h_save
+2024-09-25 16:14:46,982 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\main.h
+2024-09-25 16:14:46,994 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\main.c_save
+2024-09-25 16:14:47,100 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\main.c
+2024-09-25 16:14:48,120 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 74mS.
+2024-09-25 16:14:48,123 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2024-09-25 16:14:48,501 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2024-09-25 16:14:50,666 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2543mS.
+2024-09-25 16:14:50,666 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2024-09-25 16:14:50,668 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2024-09-25 16:18:20,027 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 895999976 Bytes (1073741824)
+2024-09-25 16:18:20,661 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 914247040 Bytes (1073741824)
+2024-09-25 16:18:22,271 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 892385872 Bytes (1073741824)
+2024-09-25 16:18:22,469 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2024-09-25 16:18:22,470 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2024-09-25 16:18:22,470 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2024-09-25 16:18:22,470 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2024-09-25 16:18:22,470 [INFO] CodeGenerator:663 - code generatio: config db path: C:\ST\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2024-09-25 16:18:22,710 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\license.tmp_save
+2024-09-25 16:18:22,757 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\license.tmp
+2024-09-25 16:18:22,822 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\gpio.tmp_save
+2024-09-25 16:18:22,894 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\gpio.tmp
+2024-09-25 16:18:22,943 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\stm32f1xx_it.c_save
+2024-09-25 16:18:23,017 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\stm32f1xx_it.c
+2024-09-25 16:18:23,021 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\stm32f1xx_it.h_save
+2024-09-25 16:18:23,070 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\stm32f1xx_it.h
+2024-09-25 16:18:23,085 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\stm32f1xx_hal_msp.c_save
+2024-09-25 16:18:23,170 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\stm32f1xx_hal_msp.c
+2024-09-25 16:18:23,173 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\system.tmp_save
+2024-09-25 16:18:23,217 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\MXTmpFiles\system.tmp
+2024-09-25 16:18:23,229 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-09-25 16:18:23,300 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\stm32f1xx_hal_conf.h
+2024-09-25 16:18:23,322 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\main.h_save
+2024-09-25 16:18:23,394 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Inc\main.h
+2024-09-25 16:18:23,405 [INFO] CodeEngine:239 - oldGeneratedFile, C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\main.c_save
+2024-09-25 16:18:23,487 [INFO] CodeEngine:257 - Generated code: C:\Users\TIEN DUY\Documents\VXLLAB1\SourceCode\LAB1\Core\Src\main.c
+2024-09-25 16:18:24,453 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 43mS.
+2024-09-25 16:18:24,456 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2024-09-25 16:18:24,819 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2024-09-25 16:18:26,470 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2014mS.
+2024-09-25 16:18:26,470 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2024-09-25 16:18:26,472 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
